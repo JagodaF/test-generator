@@ -13,6 +13,7 @@ public class Main {
         List<Question> questions = new ArrayList<>();
         Test test = new Test("sd",12,questions,result);
 
+
         System.out.println(guest.getName());
         guest.setName("Diyorbek");
         System.out.println(guest.getName());

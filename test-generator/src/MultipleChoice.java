@@ -10,6 +10,7 @@ public class MultipleChoice extends Question {
 
     public MultipleChoice(String questionId, String content, String correctAnswer, QuestionStatus status, Question parent) {
         super(questionId, content, correctAnswer, status, parent);
+
     }
 
     public List<String> getChoices() {

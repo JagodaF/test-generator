@@ -7,6 +7,7 @@ public class Result {
         this.correctAnswersCount = correctAnswersCount;
         this.incorrectAnswersCount = incorrectAnswersCount;
         this.totalScore = totalScore;
+
     }
 
     public Integer getCorrectAnswersCount() {

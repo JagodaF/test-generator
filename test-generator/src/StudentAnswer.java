@@ -7,6 +7,8 @@ public class StudentAnswer {
 
     public String getAnswer() {
         return answer;
+
+
     }
 
     public void setAnswer(String answer) {

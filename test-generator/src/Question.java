@@ -9,6 +9,7 @@ public abstract class Question {
         this.content = content;
         this.correctAnswer = correctAnswer;
         this.status = status;
+
     }
     public Question(String questionId, String content, String correctAnswer, QuestionStatus status, Question parent) {
         this.questionId = questionId;

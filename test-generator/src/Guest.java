@@ -2,6 +2,7 @@ public class Guest {
     String name;
     String surname;
     String email;
+
     String password;
 
     public Guest(String name, String surname, String email, String password) {
@@ -12,9 +13,12 @@ public class Guest {
     }
 
     static void Register() {
+
+
     }
 
     static void Login() {
+
     }
 
 

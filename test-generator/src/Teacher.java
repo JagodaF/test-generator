@@ -10,6 +10,7 @@ public class Teacher extends Student {
     }
 
     void ApproveQuestion(String questionId) {
+
     }
 
     void RejectQuestion(String questionId) {

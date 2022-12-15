@@ -11,6 +11,7 @@ public class University {
         this.address = address;
         this.phoneNumber = phoneNumber;
         this.subjects = subjects;
+
     }
 
     public String getName() {

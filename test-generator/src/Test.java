@@ -7,6 +7,7 @@ public class Test {
     Result result;
 
     public Test(String name, Integer allowedTime, List<Question> questions, Result result) {
+
         this.name = name;
         this.allowedTime = allowedTime;
         this.questions = questions;

@@ -10,6 +10,7 @@ public class Student extends Guest {
         this.studentNumber = studentNumber;
         this.university = university;
         this.tests = tests;
+
     }
     public Student(String name, String surname, String email, String password, String studentNumber, University university) {
         super(name, surname, email, password);
